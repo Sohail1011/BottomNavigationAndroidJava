@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticeBottom</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="shop">Shop</string>
+    <string name="settings">Settings</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="shop_fragment">Shop Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

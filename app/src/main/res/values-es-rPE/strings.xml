@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticeBottom</string>
+    <string name="profile">Perfil</string>
+    <string name="home">Inicio</string>
+    <string name="shop">Tienda</string>
+    <string name="settings">Configuración</string>
+    <string name="home_fragment">Fragmento Inicio</string>
+    <string name="profile_fragment">Fragmento Perfil</string>
+    <string name="settings_fragment">Fragmento Configuración</string>
+    <string name="shop_fragment">Fragmento Tienda</string>
+</resources>
